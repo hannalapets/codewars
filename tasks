@@ -18,3 +18,7 @@ var countSquares = function(cuts){
   
   return totalCubes - innerCubes;
 }
+
+multiply = function (a, b) {
+  return a * b;
+}
