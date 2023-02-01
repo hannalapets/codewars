@@ -33,3 +33,12 @@ function isPythagoreanTriple(integers) {
 function even_or_odd(number) {
   return number % 2 ? "Odd" : "Even"
 }
+
+function booleanToString(b){
+  return b.toString();
+}
+
+
+function even_or_odd(number) {
+  return number % 2 ? "Odd" : "Even"
+}
