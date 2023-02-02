@@ -42,3 +42,7 @@ function booleanToString(b){
 function even_or_odd(number) {
   return number % 2 ? "Odd" : "Even"
 }
+
+function mango(quantity, price){
+  return price * (quantity - Math.floor(quantity / 3));
+}
